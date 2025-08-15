@@ -1,0 +1,107 @@
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\PBL Forms.exe.config
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\PBL Forms.exe
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\PBL Forms.pdb
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\OxyPlot.dll
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\OxyPlot.xml
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL_Forms.Form1.resources
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL_Forms.Properties.Resources.resources
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.Up2Date
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.exe
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.pdb
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.AssemblyReference.cache
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL_Forms.Form1.resources
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL_Forms.Properties.Resources.resources
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.GenerateResource.cache
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.CoreCompileInputs.cache
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.exe
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.pdb
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\PBL Forms.exe.config
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\PBL Forms.exe
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\PBL Forms.pdb
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\OxyPlot.dll
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\OxyPlot.xml
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\082240028\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL Forms\obj\Debug\PBL Forms.csproj.CopyComplete
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\bin\Debug\PBL Forms.exe.config
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\bin\Debug\PBL Forms.exe
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\bin\Debug\PBL Forms.pdb
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\bin\Debug\OxyPlot.dll
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\bin\Debug\OxyPlot.xml
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\obj\Debug\PBL Forms.csproj.AssemblyReference.cache
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\obj\Debug\PBL_Forms.Form1.resources
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\obj\Debug\PBL_Forms.Properties.Resources.resources
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\obj\Debug\PBL Forms.csproj.GenerateResource.cache
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\obj\Debug\PBL Forms.csproj.CoreCompileInputs.cache
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\obj\Debug\PBL Forms.csproj.CopyComplete
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\obj\Debug\PBL Forms.exe
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms\PBL Forms\obj\Debug\PBL Forms.pdb
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\PBL Forms.exe.config
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\PBL Forms.exe
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\PBL Forms.pdb
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\OxyPlot.dll
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\OxyPlot.xml
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.AssemblyReference.cache
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL_Forms.Form1.resources
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL_Forms.Properties.Resources.resources
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.GenerateResource.cache
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.CoreCompileInputs.cache
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.CopyComplete
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.exe
+C:\Users\082240021\OneDrive - Fundação Salvador Arena\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.pdb
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\PBL Forms.exe.config
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\PBL Forms.exe
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\PBL Forms.pdb
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\OxyPlot.dll
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\OxyPlot.xml
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL_Forms.Form1.resources
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL_Forms.Properties.Resources.resources
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.csproj.Up2Date
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.exe
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBLForms1811\PBLForms1811\PBL Forms\obj\Debug\PBL Forms.pdb
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\bin\Debug\PBL Forms.exe.config
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\bin\Debug\PBL Forms.exe
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\bin\Debug\PBL Forms.pdb
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\bin\Debug\OxyPlot.dll
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\bin\Debug\OxyPlot.xml
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL_Forms.Form1.resources
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL_Forms.Properties.Resources.resources
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.csproj.Up2Date
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.exe
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.pdb
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\bin\Debug\PBL Forms.exe.config
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\bin\Debug\PBL Forms.exe
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\bin\Debug\PBL Forms.pdb
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\bin\Debug\OxyPlot.dll
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\bin\Debug\OxyPlot.xml
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL_Forms.Form1.resources
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL_Forms.Properties.Resources.resources
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.csproj.Up2Date
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.exe
+C:\Users\renan\OneDrive - Fundação Salvador Arena\EC1 (2024-02)\ALGORITMOS I\PBL\PBL ENVIAR\PBL Forms\obj\Debug\PBL Forms.pdb
