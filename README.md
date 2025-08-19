@@ -1,5 +1,5 @@
 # Calculadora de Integrais
-<p>Projeto (PBL) realizado para a matéria de Algoritmos I para o 1º Semestre de Engenharia da Computação.</p>
+<p>Projeto (PBL) realizado para a matéria de Algoritmos I e Cálculo I para o 1º Semestre de Engenharia da Computação.</p>
 
 <h3>Descrição do projeto</h3>
 <p>
